@@ -1,0 +1,5 @@
+16 10 2 maxProcess:cpuQuantum:idleQuantum
+8 16 pageSize:numFrames
+2 12 2 loadPpages(per-process-load-time-pages):maxPpages:OSpages
+8 10 2 periodAgeScan:termPrintTime:diskRWtime
+0 0 0 0 0 Debug:cpuDebug,memDebug,swapDebug,clockDebug
